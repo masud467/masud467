@@ -3,7 +3,7 @@
 #### I am Web Developer
 ![](https://i.ibb.co.com/Lv9DnC8/Md-Masud-2.png)
 ## About Me
-I am a passionate and dedicated  web developer with expertise in HTML, Tailwind CSS, JavaScript, React, Express, and MongoDB. I love creating efficient, responsive, and user-friendly web applications. I am continuously learning and growing my skills to stay updated with the latest web development trends.
+I am a passionate and dedicated  web developer with expertise in HTML, Tailwind CSS, JavaScript, React.js, Next.js, Express.js, Node.js, MongoDB, Firebase and Shadcn UI. I love creating efficient, responsive, and user-friendly web applications. I am continuously learning and growing my skills to stay updated with the latest web development trends.
 ## Daily Streak
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masud467)  
 ## Connect with me
