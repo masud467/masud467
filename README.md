@@ -5,7 +5,7 @@
 ## About Me
 I am a passionate and dedicated  web developer with expertise in HTML, Tailwind CSS, JavaScript, React.js, Next.js, Express.js, Node.js, MongoDB, Firebase and Shadcn UI. I love creating efficient, responsive, and user-friendly web applications. I am continuously learning and growing my skills to stay updated with the latest web development trends.
 ## Daily Streak
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masud467) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=masud467)
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masud467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masud4/)  
 
