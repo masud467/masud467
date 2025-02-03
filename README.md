@@ -19,7 +19,7 @@ I am a passionate and dedicated  web developer with expertise in HTML, Tailwind 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masud467)](https://github.com/anuraghazra/github-readme-stats) 
 ## Current overview
-### - 🌱 I’m currently learning TypeScript and Angular 
+### - 🌱 I’m currently learning TypeScript and Angular JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masud467&show_icons=true)  
 
